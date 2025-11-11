@@ -1,0 +1,16 @@
+import slide1 from "./Carousel1.png"
+import slide2 from "./Carousel2.png"
+ import slide3 from "./Carousel1-3.png"
+ 
+ 
+
+export{slide1,slide2,slide3}
+
+ import category1 from "../images/men Z.png"
+ import category2 from "../images/women Z.png"
+ import category3 from "../images/electronics Z.png"
+ import category4 from "../images/grocery Z.png"
+ export {category1,category2,category3,category4}
+import logo from "./Logo m.png"
+import loginpage from "../images/loginpage.png"
+export {loginpage,logo}
